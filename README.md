@@ -15,6 +15,7 @@ Work in progress!
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Azure DevOps](https://img.shields.io/badge/-Azure%20Devops-05122A?style=flat&logo=zzure%20devops)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?logo=TensorFlow)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?logo=Windows)&nbsp;
