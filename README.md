@@ -25,6 +25,6 @@ Work in progress!
 ![Docker](https://img.shields.io/badge/Docker-05122A?logo=Docker)&nbsp;
 
 
-
+### Profile Stats :chart_with_upwards_trend: :
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmcdonald&theme=tokyonight" alt="mystreak"/>
-<img src="https://komarev.com/ghpvc/?username=jmcdonald&color=brightgreen" alt="watching_count" />
