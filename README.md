@@ -28,3 +28,14 @@ Work in progress!
 ### Profile Stats :chart_with_upwards_trend: :
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="45%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmcdonald&theme=tokyonight" alt="mystreak" width="54%"/>
+
+
+### 🤝🏻 &nbsp;Social Media Links:
+
+<p align="center">
+<a href="https://www.joemcd.com"><img src="https://img.shields.io/badge/-joemcd.com-3423A6?style=flat"/></a>
+<a href="https://linkedin.com/in/joemcd0224"><img src="https://img.shields.io/badge/-Joe%20McDonald-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:joemcd0224@gmail.com"><img src="https://img.shields.io/badge/-joemcd0224@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/joe__mcd"><img src="https://img.shields.io/badge/-@joe__mcd-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/joemcdonald0224"><img src="https://img.shields.io/badge/-@joemcdonald0224-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
