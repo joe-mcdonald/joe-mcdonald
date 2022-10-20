@@ -24,3 +24,5 @@ Work in progress!
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?logo=Ubuntu)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-05122A?logo=Docker)&nbsp;
 
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jmcdonald&theme=tokyonight" alt="mystreak"/>
