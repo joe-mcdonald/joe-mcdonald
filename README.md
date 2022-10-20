@@ -19,5 +19,6 @@ Work in progress!
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?logo=TensorFlow)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?logo=Windows)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-05122A?logo=Linux)&nbsp;
-![Azure Devops](https://img.shields.io/badge/Azure%20Devops-05122A?logo=Azure%20Devops)&nbsp;
-![Azure Devops](https://img.shields.io/badge/Azure%20Devops-05122A?logo=Azure%20Devops)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?logo=Ubuntu)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-05122A?logo=Docker)&nbsp;
+
