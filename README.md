@@ -26,8 +26,8 @@ Work in progress!
 
 
 ### Profile Stats :chart_with_upwards_trend: :
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="45%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jmcdonald&theme=tokyonight" alt="mystreak" width="54%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-mcdonald&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="45%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joe-mcdonald&theme=tokyonight" alt="mystreak" width="54%"/>
 
 
 ### 🤝🏻 &nbsp;Social Media Links:
