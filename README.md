@@ -53,7 +53,7 @@
 
 <p align="center">
 <a href="https://www.joemcd.ca"><img src="https://img.shields.io/badge/-www.joemcd.ca-3423A6?style=flat"/></a>
-<a href="https://linkedin.com/in/joemcd0224"><img src="https://img.shields.io/badge/-Joe%20McDonald-0077B5?style=flat&logo=Linkedin-white&logoColor=white"/></a>
+<a href="https://linkedin.com/in/joemcd0224"><img src="https://custom-icon-badges.demolab.com/badge/My%20LinkedIn-0A66C2?logo=linkedin-white&logoColor=white"/></a>
 <a href="mailto:joemcd0224@gmail.com"><img src="https://img.shields.io/badge/-joemcd0224@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/joe__mcd"><img src="https://img.shields.io/badge/-@joe__mcd-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
